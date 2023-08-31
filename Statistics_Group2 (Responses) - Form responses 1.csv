@@ -1,0 +1,135 @@
+Timestamp,What is your age?,What is your gender?,What is your current job status?,Your total work experience (in months)?,"In which set-up you're currently working/worked in?
+(Work from home - WFH, Work from office - WFO, Hybrid) ",What is/was your employment type?,"How comfortable is/was your home workspace? 
+(Scale: 0 - Only WFO, 1 - Very uncomfortable, 2 - Uncomfortable, 3 - Neutral, 4 - Comfortable, 5 - Very comfortable)","How comfortable is/was your office workspace? 
+(Scale: 0 - Only WFH, 1 - Very uncomfortable, 2 - Uncomfortable, 3 - Neutral, 4 - Comfortable, 5 - Very comfortable)",How productive do you feel while working from home? ,How productive do you feel while working from office? ,Concentration for a task remains better at?,Do you find it easier to maintain a work-life balance while working from home or from the office?,"How satisfied are you with your current/past job overall?
+(Scale: 1 - Very dissatisfied, 2 - Dissatisfied, 3 - Neutral, 4 - Satisfied, 5 - Very satisfied) ",Is there any aspect(s) of your job that you enjoy more while working from home or from the office?,Which option will increase your overall job satisfaction level the most?,How has your stress level changed since working from home/office?,"Given a choice, which one would you prefer?"
+19/08/2023 16:22:54,21-25,Male,Student with prior work exp.,25 - 36,WFH,Full-time,4,5,2,4,Office,Home,4,,Flexible office timings,Increased slightly,Hybrid
+19/08/2023 16:25:12,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,3,4,2,4,Office,Home,3,,Better facilities at office,Increased slightly,WFH
+19/08/2023 16:31:22,21-25,Male,Not employed,0 - 12,WFO,Full-time,3,3,3,3,Office,Home,3,,Change in work mode (WFH/WFO),No change,WFH
+19/08/2023 16:31:56,21-25,Male,Employed,13 - 24,Hybrid,Full-time,3,4,5,3,Home,Home,4,,Flexible office timings,No change,Hybrid
+19/08/2023 16:33:46,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,4,4,4,4,No difference,Home,3,,Flexible office timings,No change,Hybrid
+19/08/2023 16:34:03,26-35,Male,Student with prior work exp.,13 - 24,Hybrid,Part-time,4,2,4,3,Office,Home,3,,Better facilities at office,Decreased slightly,Hybrid
+19/08/2023 16:36:15,21-25,Male,Employed,13 - 24,Hybrid,Full-time,4,4,4,3,No difference,No difference,5,Flexibility and being with family,Change in work mode (WFH/WFO),Decreased slightly,Hybrid
+19/08/2023 16:44:28,21-25,Female,Not employed,0 - 12,Hybrid,Not employed,4,4,3,4,Office,Home,3,,Flexible office timings,Increased slightly,WFH
+19/08/2023 19:08:37,21-25,Male,Not employed,0 - 12,WFO,Part-time,5,4,3,4,Office,Home,4,,Less working hours,Increased slightly,Hybrid
+19/08/2023 20:30:33,21-25,Male,Student with prior work exp.,0 - 12,WFO,Full-time,4,3,3,4,Office,Office,4,,Less working hours,No change,WFO
+19/08/2023 20:36:31,26-35,Male,Student with prior work exp.,25 - 36,WFH,Full-time,5,2,4,2,No difference,Home,5,,Flexible office timings,No change,WFH
+19/08/2023 20:36:56,26-35,Male,Student with prior work exp.,13 - 24,WFO,Full-time,3,4,3,4,Office,Home,4,,Better facilities at office,Increased slightly,WFO
+19/08/2023 20:45:52,21-25,Male,Student with prior work exp.,25 - 36,WFH,Full-time,4,4,4,5,Office,Home,3,,Less working hours,No change,Hybrid
+19/08/2023 20:52:59,21-25,Female,Student with prior work exp.,25 - 36,Hybrid,Full-time,5,2,5,2,Home,Home,4,,Change in work mode (WFH/WFO),No change,WFH
+19/08/2023 20:55:15,21-25,Female,Not employed,0 - 12,WFH,Freelance,5,0,5,3,Home,Home,1,,Flexible office timings,Increased significantly,WFH
+19/08/2023 20:58:35,26-35,Female,Employed,0 - 12,Hybrid,Full-time,4,0,3,4,Office,Home,3,,Less working hours,Increased slightly,WFH
+19/08/2023 21:35:56,21-25,Male,Employed,13 - 24,WFH,Full-time,4,4,5,4,Home,Office,3,No clothes,Less working hours,No change,Hybrid
+19/08/2023 21:47:46,21-25,Female,Student with prior work exp.,25 - 36,WFH,Full-time,5,4,4,4,No difference,No difference,4,Flexibility in wfh and personal meet in wfo,Flexible office timings,Decreased slightly,WFH
+19/08/2023 21:56:08,21-25,Male,Employed,25 - 36,WFH,Full-time,5,3,5,5,Home,Home,3,,Less working hours,Increased slightly,WFH
+19/08/2023 21:59:12,26-35,Male,Employed,25 - 36,WFH,Full-time,5,1,5,2,Home,Home,4,,Change in work mode (WFH/WFO),Increased slightly,WFH
+19/08/2023 22:02:06,21-25,Male,Employed,13 - 24,Hybrid,Full-time,3,4,2,5,Office,Office,4,,Better facilities at office,Decreased slightly,Hybrid
+19/08/2023 22:06:11,20 and below,Female,Not employed,0 - 12,WFO,Full-time,3,3,3,4,Office,Office,2,Office,Better facilities at office,Increased significantly,WFH
+19/08/2023 22:16:21,21-25,Male,Student with prior work exp.,25 - 36,WFO,Full-time,4,4,3,4,Office,Office,4,,Flexible office timings,Decreased slightly,WFO
+19/08/2023 22:18:04,21-25,Male,Employed,0 - 12,WFO,Full-time,4,5,3,4,Office,Home,4,,Change in work mode (WFH/WFO),No change,Hybrid
+19/08/2023 22:34:45,26-35,Female,Employed,0 - 12,Hybrid,Full-time,5,4,5,3,Home,Home,4,,Flexible office timings,Decreased slightly,Hybrid
+19/08/2023 22:39:28,21-25,Male,Employed,13 - 24,WFO,Full-time,5,5,2,5,Office,Office,4,,Flexible office timings,Decreased significantly,WFO
+19/08/2023 23:50:27,21-25,Male,Student with prior work exp.,25 - 36,Hybrid,Full-time,5,5,3,5,Office,Home,4,,Change in work mode (WFH/WFO),Decreased slightly,Hybrid
+20/08/2023 00:01:16,21-25,Male,Student with prior work exp.,25 - 36,WFH,Full-time,5,4,4,5,Home,Home,5,,Change in work mode (WFH/WFO),Increased slightly,Hybrid
+20/08/2023 00:09:50,20 and below,Female,Student with prior work exp.,0 - 12,Hybrid,Full-time,3,3,4,4,No difference,No difference,3,,Change in work mode (WFH/WFO),No change,Hybrid
+20/08/2023 00:10:30,21-25,Male,Employed,0 - 12,WFH,Full-time,5,2,4,5,Office,Home,4,Work life balance ,Change in work mode (WFH/WFO),Decreased slightly,WFH
+20/08/2023 00:11:41,21-25,Female,Not employed,25 - 36,WFH,Student,1,1,3,3,Home,Office,3,,Less working hours,Increased slightly,WFO
+20/08/2023 00:24:43,21-25,Female,Employed,0 - 12,WFH,Full-time,4,0,5,4,Home,Office,5,,Better facilities at office,Decreased significantly,Hybrid
+20/08/2023 00:28:51,21-25,Female,Employed,13 - 24,WFH,Full-time,5,0,5,2,Home,Home,5,,Change in work mode (WFH/WFO),Decreased significantly,WFH
+20/08/2023 00:41:47,21-25,Female,Employed,0 - 12,WFO,Full-time,4,5,4,4,No difference,No difference,5,,Flexible office timings,No change,Hybrid
+20/08/2023 00:45:10,21-25,Male,Student with prior work exp.,25 - 36,Hybrid,Full-time,3,5,3,5,Office,No difference,4,,Less working hours,No change,WFO
+20/08/2023 00:47:46,26-35,Male,Not employed,0 - 12,WFO,Not in work,4,2,3,4,Office,Home,4,,Flexible office timings,Decreased slightly,WFH
+20/08/2023 00:49:14,21-25,Male,Employed,13 - 24,WFH,Full-time,4,2,4,4,Home,Home,4,,Change in work mode (WFH/WFO),Decreased significantly,WFH
+20/08/2023 00:54:45,20 and below,Male,Student with prior work exp.,0 - 12,WFO,Freelance,0,0,2,1,Home,No difference,3,,Change in work mode (WFH/WFO),No change,WFH
+20/08/2023 00:56:08,21-25,Male,Employed,37 - 48,WFO,Full-time,4,3,4,3,Home,Home,2,,Less working hours,Increased slightly,Hybrid
+20/08/2023 00:58:19,21-25,Male,Employed,13 - 24,WFO,Full-time,5,3,5,3,Home,Home,2,Yeah I enjoy the fact that I can work on my job in various chunks of my day as I want without any outside intervention in a work form home environment/setup,Change in work mode (WFH/WFO),Decreased slightly,WFH
+20/08/2023 00:59:52,21-25,Male,Employed,13 - 24,WFO,Full-time,5,5,3,3,Office,Office,5,Office ,Less working hours,No change,WFO
+20/08/2023 01:12:44,21-25,Male,Employed,0 - 12,WFH,Full-time,5,0,5,1,Home,Home,3,,Less working hours,No change,WFH
+20/08/2023 01:16:28,21-25,Male,Employed,25 - 36,Hybrid,Full-time,5,4,3,4,Office,Home,3,,Less working hours,No change,Hybrid
+20/08/2023 01:21:26,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,5,5,4,2,Home,Office,4,,Less working hours,Increased slightly,Hybrid
+20/08/2023 01:22:49,26-35,Male,Employed,37 - 48,Hybrid,Full-time,5,4,5,4,Home,Home,5,,Better facilities at office,No change,Hybrid
+20/08/2023 01:59:01,21-25,Male,Not employed,25 - 36,Hybrid,Full-time,5,5,5,3,Home,Home,5,,Flexible office timings,No change,Hybrid
+20/08/2023 02:26:22,20 and below,Male,Student with prior work exp.,13 - 24,WFH,Freelance,4,3,4,3,No difference,No difference,3,No,Better facilities at office,Decreased slightly,Hybrid
+20/08/2023 02:48:49,21-25,Male,Employed,25 - 36,WFH,Full-time,5,0,5,1,Home,Home,3,,Change in work mode (WFH/WFO),Decreased significantly,WFH
+20/08/2023 06:03:01,46-60,Male,Employed,25 - 36,WFO,Full-time,0,5,3,5,Office,No difference,5,"Offline mode of working  opportunity to interact with people one on one.
+
+",All of the above ,Increased slightly,Hybrid
+20/08/2023 07:05:44,21-25,Male,Employed,0 - 12,WFO,Full-time,5,5,4,5,Office,Office,5,,Flexible office timings,Increased slightly,Hybrid
+20/08/2023 07:09:17,21-25,Male,Employed,0 - 12,Hybrid,Full-time,3,4,4,4,Office,Home,4,,Change in work mode (WFH/WFO),No change,Hybrid
+20/08/2023 07:09:48,21-25,Male,Student with prior work exp.,0 - 12,WFO,Full-time,4,3,3,3,Home,Home,4,,Flexible office timings,Increased slightly,WFH
+20/08/2023 08:04:41,26-35,Female,Employed,0 - 12,WFO,Full-time,3,4,3,4,Office,Office,4,Interaction woth collegues directly makes a difference. specially when we mentor juniors ,Less working hours,Decreased slightly,WFO
+20/08/2023 09:13:56,20 and below,Female,Employed,13 - 24,WFH,Part-time,5,5,4,5,No difference,No difference,3,The only thing that i enjoy about it is that I actually learn something new everyday ,Pay ,No change,Hybrid
+20/08/2023 09:33:17,21-25,Female,Employed,13 - 24,Hybrid,Full-time,4,3,4,4,No difference,No difference,4,,Change in work mode (WFH/WFO),Increased slightly,Hybrid
+20/08/2023 09:33:47,26-35,Male,Student with prior work exp.,37 - 48,Hybrid,Full-time,5,4,4,4,No difference,No difference,4,Saving Travel time in WFH,Better facilities at office,No change,Hybrid
+20/08/2023 09:42:11,21-25,Female,Employed,0 - 12,WFO,Full-time,0,5,1,5,Office,Office,5,,Better facilities at office,Increased significantly,WFO
+20/08/2023 09:44:08,21-25,Male,Not employed,13 - 24,Hybrid,Full-time,3,4,4,3,Home,Home,4,,Flexible office timings,No change,Hybrid
+20/08/2023 09:45:16,20 and below,Female,Student with prior work exp.,0 - 12,WFO,Full-time,2,4,2,4,Office,Office,4,,Better facilities at office,Increased slightly,WFO
+20/08/2023 09:49:50,46-60,Male,Employed,48 +,WFO,Full-time,0,5,1,5,Office,Office,5,,Better facilities at office,Increased significantly,WFO
+20/08/2023 09:51:27,36-45,Male,Not employed,25 - 36,WFH,Full-time,4,1,5,1,Home,Home,4,,Change in work mode (WFH/WFO),Decreased significantly,WFH
+20/08/2023 10:22:37,21-25,Male,Not employed,13 - 24,WFO,Full-time,2,3,5,4,Office,Home,4,,Flexible office timings,No change,WFH
+20/08/2023 10:59:05,21-25,Male,Employed,0 - 12,WFH,Full-time,4,0,4,1,Home,Home,3,,Less working hours,No change,WFH
+20/08/2023 12:00:15,21-25,Female,Employed,13 - 24,WFH,Full-time,1,4,3,3,Home,Home,4,Interacting with people at office,Change in work mode (WFH/WFO),Increased slightly,Hybrid
+20/08/2023 12:39:40,20 and below,Female,Student with prior work exp.,0 - 12,Hybrid,Part-time,3,4,2,4,Office,Home,3,"Multitasking, fulfillment of daily works along with office work and also not getting fatigue",Better facilities at office,Increased slightly,Hybrid
+20/08/2023 14:00:26,21-25,Male,Student with prior work exp.,13 - 24,WFO,Full-time,5,4,5,5,No difference,No difference,5,,Work life balance ,No change,Hybrid
+20/08/2023 16:09:31,26-35,Male,Employed,0 - 12,Hybrid,Full-time,4,5,4,3,Office,Office,4,,Better facilities at office,Increased slightly,Hybrid
+20/08/2023 19:16:43,21-25,Male,Employed,37 - 48,WFH,Full-time,3,4,3,5,Office,Home,4,,Less working hours,No change,WFH
+20/08/2023 19:19:54,26-35,Female,Not employed,48 +,Hybrid,Full-time,5,5,3,5,Office,No difference,3,,Flexible office timings,Increased slightly,WFO
+20/08/2023 19:21:43,26-35,Female,Employed,13 - 24,Hybrid,Full-time,2,4,3,5,Office,No difference,3,,Flexible office timings,No change,WFH
+20/08/2023 19:25:01,21-25,Male,Student with prior work exp.,0 - 12,Hybrid,Full-time,2,3,3,4,Office,Home,3,,Flexible office timings,No change,Hybrid
+20/08/2023 19:25:56,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,3,4,2,4,No difference,Home,4,,Flexible office timings,Increased slightly,Hybrid
+20/08/2023 19:27:44,26-35,Female,Not employed,48 +,WFO,Full-time,2,5,2,5,Office,Home,4,,Flexible office timings,No change,Hybrid
+20/08/2023 19:32:12,21-25,Male,Employed,37 - 48,WFH,Full-time,4,4,2,4,Office,Home,5,,Flexible office timings,Increased slightly,Hybrid
+20/08/2023 19:33:58,26-35,Male,Employed,25 - 36,Hybrid,Full-time,3,3,2,4,Office,Home,4,,Flexible office timings,Increased slightly,Hybrid
+20/08/2023 19:35:27,26-35,Female,Employed,37 - 48,WFH,Full-time,5,5,3,5,Office,Home,4,,Flexible office timings,Increased slightly,Hybrid
+20/08/2023 19:41:02,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,4,4,4,4,No difference,No difference,4,Flexible working,Flexible office timings,No change,Hybrid
+20/08/2023 19:43:21,26-35,Male,Student with prior work exp.,48 +,Hybrid,Full-time,4,4,4,2,No difference,Home,4,,Less working hours,Increased slightly,WFH
+20/08/2023 19:46:18,21-25,Male,Employed,25 - 36,WFH,Freelance,4,2,4,2,Home,Home,5,,Flexible office timings,Decreased significantly,WFH
+20/08/2023 19:47:42,20 and below,Female,Not employed,0 - 12,Hybrid,Part-time,4,3,4,4,Office,Office,3,,Better facilities at office,Increased slightly,WFO
+20/08/2023 19:51:28,21-25,Female,Not employed,25 - 36,WFO,Part-time,3,0,3,3,Home,Office,3,,Flexible office timings,Increased slightly,WFO
+20/08/2023 20:27:31,21-25,Male,Employed,25 - 36,Hybrid,Full-time,4,1,5,1,Home,Home,4,,Flexible office timings,Increased slightly,WFH
+20/08/2023 20:28:23,36-45,Male,Employed,48 +,WFO,Full-time,5,3,5,4,Office,Home,4,"From home, there is stress free work ",Better facilities at office,Decreased slightly,WFH
+20/08/2023 20:40:05,36-45,Female,Employed,48 +,WFO,Full-time,5,5,1,5,Office,Home,5,,Better facilities at office,No change,WFO
+20/08/2023 21:45:47,26-35,Male,Employed,25 - 36,WFO,Full-time,4,1,5,2,Home,Home,4,,Flexible office timings,Decreased significantly,WFH
+20/08/2023 23:35:29,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,2,4,3,4,Office,Home,4,,Better facilities at office,Decreased slightly,WFO
+20/08/2023 23:37:13,21-25,Female,Employed,25 - 36,WFO,Part-time,3,2,4,4,Home,Home,4,,Less working hours,Increased slightly,WFH
+20/08/2023 23:49:08,21-25,Male,Employed,0 - 12,WFO,Full-time,4,1,5,2,Home,Home,3,,Flexible office timings,Decreased slightly,WFH
+21/08/2023 00:06:18,21-25,Male,Student with prior work exp.,13 - 24,WFH,Full-time,5,0,5,3,Office,Home,4,,Less working hours,Increased slightly,WFH
+21/08/2023 00:17:52,21-25,Male,Employed,25 - 36,Hybrid,Full-time,5,1,5,1,Home,Home,1,,Wfh,Decreased slightly,WFH
+21/08/2023 00:18:29,21-25,Male,Employed,13 - 24,Hybrid,Full-time,5,3,5,1,Home,No difference,3,,Less working hours,Increased slightly,WFH
+21/08/2023 01:54:00,21-25,Male,Student with prior work exp.,13 - 24,Hybrid,Full-time,3,5,4,3,Home,Office,4,,Flexible office timings,Increased slightly,Hybrid
+21/08/2023 04:26:26,21-25,Male,Student with prior work exp.,25 - 36,Hybrid,Full-time,5,5,5,3,Home,Office,4,,Flexible office timings,Decreased significantly,Hybrid
+21/08/2023 08:04:10,21-25,Male,Student with prior work exp.,13 - 24,WFH,Part-time,5,0,3,4,Office,Home,3,,Less working hours,No change,WFH
+21/08/2023 09:05:19,26-35,Female,Employed,25 - 36,WFO,Full-time,0,3,4,3,No difference,Home,3,,Change in work mode (WFH/WFO),Increased slightly,Hybrid
+21/08/2023 10:35:58,21-25,Male,Employed,0 - 12,WFH,Full-time,5,1,5,1,Home,Home,1,,More money,Decreased significantly,WFH
+21/08/2023 11:16:33,21-25,Male,Employed,13 - 24,Hybrid,Full-time,4,3,5,4,Home,Office,3,,Change in work mode (WFH/WFO),Increased slightly,WFH
+21/08/2023 11:32:52,21-25,Female,Employed,0 - 12,WFO,Full-time,4,3,4,5,No difference,Office,3,,Better facilities at office,Increased significantly,Hybrid
+21/08/2023 12:24:18,21-25,Male,Employed,0 - 12,Hybrid,Full-time,5,4,4,4,No difference,Home,4,,Flexible office timings,Increased slightly,Hybrid
+21/08/2023 13:08:43,21-25,Male,Employed,25 - 36,WFO,Full-time,5,5,5,3,Home,No difference,4,Flexibility in working concurrent projects aside from job,Change in work mode (WFH/WFO),No change,WFH
+21/08/2023 15:01:10,21-25,Male,Employed,25 - 36,Hybrid,Full-time,3,4,3,4,Office,No difference,3,,Less working hours,No change,Hybrid
+21/08/2023 17:03:29,21-25,Male,Employed,0 - 12,WFO,Full-time,5,3,4,2,Office,Home,2,,Better facilities at office,Increased slightly,WFH
+21/08/2023 20:00:50,21-25,Female,Employed,0 - 12,Hybrid,Full-time,4,3,4,4,Home,Home,4,"Wfh gives flexibility of planning the day and running errands. Also, helps in relaxing between hectic calls. 
+Wfo on other hand improves interaction with peers.",Flexible office timings,No change,Hybrid
+21/08/2023 20:21:39,21-25,Male,Employed,0 - 12,Hybrid,Full-time,5,4,4,2,Home,Home,5,,Change in work mode (WFH/WFO),Increased slightly,WFH
+21/08/2023 21:31:20,21-25,Female,Employed,0 - 12,Hybrid,Full-time,2,4,4,5,Office,Office,4,,Flexible office timings,No change,Hybrid
+21/08/2023 21:48:32,26-35,Male,Student with prior work exp.,48 +,WFO,Full-time,4,3,4,3,Office,Home,4,,Flexible office timings,Decreased slightly,Hybrid
+21/08/2023 21:51:04,26-35,Male,Student with prior work exp.,37 - 48,WFH,Full-time,4,3,4,3,Home,Home,4,,Change in work mode (WFH/WFO),No change,WFH
+21/08/2023 22:02:05,46-60,Female,Not employed,0 - 12,WFH,Full-time,1,0,3,1,No difference,No difference,2,,Less working hours,No change,Hybrid
+21/08/2023 22:44:48,36-45,Male,Employed,48 +,Hybrid,Freelance,3,4,4,5,Home,Office,4,,Flexible office timings,Decreased slightly,Hybrid
+21/08/2023 22:59:05,46-60,Male,Employed,48 +,WFO,Full-time,3,5,2,5,Office,Office,4,,Better facilities at office,Increased slightly,WFO
+21/08/2023 23:00:05,36-45,Female,Not employed,0 - 12,WFH,Freelance,5,1,4,2,Home,Home,4,,Less working hours,Decreased significantly,WFH
+21/08/2023 23:01:36,26-35,Male,Employed,25 - 36,WFH,Full-time,3,4,2,4,Office,Office,4,,Change in work mode (WFH/WFO),Increased slightly,WFO
+21/08/2023 23:02:39,21-25,Male,Not employed,0 - 12,WFH,Full-time,5,4,5,3,Home,Home,3,,Change in work mode (WFH/WFO),No change,WFH
+21/08/2023 23:02:50,36-45,Male,Employed,48 +,WFO,Full-time,1,4,2,4,Office,Office,4,,Better facilities at office,Increased slightly,WFO
+21/08/2023 23:04:23,21-25,Female,Student with prior work exp.,0 - 12,WFO,Full-time,3,4,2,4,Office,No difference,4,,Better facilities at office,Increased slightly,Hybrid
+21/08/2023 23:07:13,21-25,Male,Employed,25 - 36,Hybrid,Full-time,4,4,4,2,Home,Home,4,,Flexible office timings,Increased slightly,WFH
+21/08/2023 23:09:40,21-25,Male,Employed,0 - 12,Hybrid,Full-time,4,5,5,3,No difference,Home,4,,Change in work mode (WFH/WFO),Decreased significantly,Hybrid
+21/08/2023 23:13:52,20 and below,Female,Not employed,0 - 12,WFH,Freelance,5,1,4,2,Home,Home,2,,Flexible office timings,No change,WFH
+21/08/2023 23:16:37,46-60,Female,Employed,48 +,Hybrid,Freelance,5,3,4,4,No difference,Home,4,It’s more relaxed with WFH as we avoid the commute to and fro to work,Flexible office timings,Decreased slightly,Hybrid
+21/08/2023 23:17:36,36-45,Male,Employed,48 +,WFO,Full-time,3,5,3,4,Office,Office,4,,Better facilities at office,No change,WFO
+21/08/2023 23:21:21,26-35,Female,Not employed,25 - 36,WFO,Full-time,4,3,4,3,Home,Home,4,,Change in work mode (WFH/WFO),Decreased slightly,WFH
+21/08/2023 23:23:26,26-35,Male,Employed,48 +,WFH,Full-time,5,3,5,3,Home,Home,3,,Better facilities at office,Increased slightly,Hybrid
+21/08/2023 23:23:53,36-45,Male,Employed,48 +,Hybrid,Full-time,4,2,5,3,Home,Home,3,,Flexible office timings,Decreased slightly,WFH
+21/08/2023 23:24:24,46-60,Male,Employed,48 +,Hybrid,Full-time,5,4,4,4,Office,No difference,4,In different ,Better facilities at office,No change,Hybrid
+21/08/2023 23:42:55,26-35,Male,Employed,25 - 36,WFO,Full-time,3,4,2,4,Office,Office,4,,Better facilities at office,No change,WFO
+22/08/2023 00:08:36,26-35,Male,Employed,48 +,WFH,Full-time,5,2,4,3,Home,Home,3,,Less working hours,No change,WFH
+22/08/2023 11:57:13,21-25,Female,Employed,13 - 24,Hybrid,Full-time,3,4,2,4,Office,Home,4,,Flexible office timings,No change,Hybrid
